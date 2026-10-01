@@ -1,0 +1,27 @@
+# Python virtual environment
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+*.env
+
+# Firebase credentials
+serviceAccountKey.json
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
